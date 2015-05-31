@@ -1,4 +1,7 @@
-when you create a new directory:
+
+#### COMMAND LINE ####
+
+	when you create a new directory:
 	1. ls (for a list of all the folders in the directory you are currently - in this case it is "notes")
 	2. cd means "change directory" so if you typed "cd downloads" it would open you "downoalds" folder
 	3.mkdir is "make directory" because you are making a new folder in your finder on your computer 
@@ -6,4 +9,10 @@ when you create a new directory:
 
 	option, command and #'s 1-5 will split the screen you are working on (in sublime text)
 
+#### GIT ####
+
 	everything you want to go to the "cloud" needs to start with "git"
+
+	git commit -am "COMMIT MESSAGE"
+	git push origin master
+	git pull origin master
